@@ -9,3 +9,20 @@ h1{
     justify-content: center;
     text-decoration: underline;
 }
+
+#operator{
+    color: blanchedalmond;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(97, 146, 148);
+    font-family: monospace;
+}
+
+img{
+    display:inline-block;
+    text-decoration: underline;
+    color: blanchedalmond;
+    
+    
+}
