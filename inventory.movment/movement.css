@@ -19,6 +19,21 @@ h1{
     font-family: monospace;
 }
 
+h2{
+    color: blanchedalmond;
+    text-decoration: underline;
+}
+
+a{
+    color: blanchedalmond;
+    font-size: 26px;
+}
+
+ul{
+    color: blanchedalmond;
+    font-size: 20px;
+}
+
 img{
     display:inline-block;
     text-decoration: underline;
