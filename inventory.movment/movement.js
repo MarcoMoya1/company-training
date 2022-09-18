@@ -1,3 +1,5 @@
-console.log('howdy');
+// console.log('howdy');
 
-alert("Welcome to The Inventory Movement Training Page!");
+// alert("Welcome to The Inventory Movement Training Page!");
+
+// commenting out the alert for testing purposes 
