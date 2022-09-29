@@ -64,7 +64,7 @@ img{
 
 }
 button:hover {
-    color: aqua;
+    color: black;
     box-shadow: 3px 3px 20px #03e9f4,
     3px 2px 20px #03e9f4;
 }
